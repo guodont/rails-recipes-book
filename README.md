@@ -31,7 +31,9 @@ rails recipes book translation
 + Recipe 6. Create Polymorphic Associations
 + 菜谱 6. 创建多态关联
 + Recipe 7. Version Your Models
++ 菜谱 7. 模型版本
 + Recipe 8. Perform Calculations on Your Model Data
++ 菜谱 8. 在模型数据上执行计算
 + Recipe 9. Use Active Record Outside of Rails
 + Recipe 10. Connect to Legacy Databases
 + Recipe 11. Make Dumb Data Smart with composed_of()
