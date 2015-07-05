@@ -1,6 +1,10 @@
 #Introduction
 
+绪论
+
 ##What Makes a Good Recipe Book?
+
+什么构成了一本好的食谱书？
 
 If I were to buy a real recipe book—you know, a book about cooking food—I wouldn’t be looking for a book that tells me how to dice vegetables or how to use a skillet. I can find that kind of information in an overview about cooking.
 
