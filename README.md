@@ -2,22 +2,34 @@
 rails recipes book translation 
 
 #Contents
-
-##Introduction 
+#目录
+##Introduction
+##前言
 + [What Makes a Good Recipe Book?](Introduction/what-makes-a-good-recipe-book.md)
++ [什么是一个好的菜谱书?](Introduction/what-makes-a-good-recipe-book.md)
 + Who’s It For?
++ 为谁而写？
 + Rails Version
++ Rails 版本
 + Resources
++ 资源
 + Acknowledgments
++ 致谢
 
 ###Part I — Database Recipes
-
+###Part I — 数据库菜谱
 + [Recipe 1.Create Meaningful Many-to-Many Relationships](PartI-Database-Recipes/Recipe-1-Create-Meaningful-Many-to-Many-Relationships.md)
++ [菜谱 1.创建有意义的多对多关系](PartI-Database-Recipes/Recipe-1-Create-Meaningful-Many-to-Many-Relationships.md)
 + Recipe 2. Create Declarative Named Queries
++ 菜谱 2.创建声明式命名查询
 + Recipe 3. Connect to Multiple Databases
++ 菜谱 3.连接到多种数据库
 + Recipe 4. Set Default Criteria for Model Operations
++ 菜谱 4. 为模型操作设置默认条件
 + Recipe 5. Add Behavior to Active Record Associations
++ 菜谱 5. 添加行为到 Active Record 关联
 + Recipe 6. Create Polymorphic Associations
++ 菜谱 6. 创建多态关联
 + Recipe 7. Version Your Models
 + Recipe 8. Perform Calculations on Your Model Data
 + Recipe 9. Use Active Record Outside of Rails
