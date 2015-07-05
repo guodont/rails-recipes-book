@@ -4,7 +4,7 @@ rails recipes book translation
 #Contents
 
 ##Introduction 
-+ [What Makes a Good Recipe Book?](/indroduction/what-makes-a-good-recipe-book.md)
++ [What Makes a Good Recipe Book?](Introduction/what-makes-a-good-recipe-book.md)
 + Who’s It For?
 + Rails Version
 + Resources
