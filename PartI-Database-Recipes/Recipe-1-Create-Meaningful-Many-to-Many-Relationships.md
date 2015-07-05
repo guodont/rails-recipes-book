@@ -1,5 +1,5 @@
 ﻿##Create Meaningful Many-to-Many Relationships
-﻿##创建有意义的多对多关系
+##创建有意义的多对多关系
 
 ###Problem
 ###问题
