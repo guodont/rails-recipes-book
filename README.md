@@ -1,4 +1,4 @@
-# rails-recipes-book
+﻿# rails-recipes-book
 rails recipes book translation 
 
 #Contents
@@ -12,7 +12,7 @@ rails recipes book translation
 
 ###Part I — Database Recipes
 
-+ Recipe 1.Create Meaningful Many-to-Many Relationships
++ [Recipe 1.Create Meaningful Many-to-Many Relationships](PartI-Database-Recipes/Recipe-1-Create-Meaningful-Many-to-Many-Relationships.md)
 + Recipe 2. Create Declarative Named Queries
 + Recipe 3. Connect to Multiple Databases
 + Recipe 4. Set Default Criteria for Model Operations
